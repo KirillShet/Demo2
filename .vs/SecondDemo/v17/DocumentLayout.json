@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\SecondDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\form.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\form.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\form.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\form.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\firstwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\firstwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\firstwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\firstwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\models\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\models\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\entitymodels\\shetinincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\entitymodels\\shetinincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\serviceaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\serviceaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|c:\\users\\prdb\\desktop\\seconddemo\\seconddemo\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E79644-F4F4-48AE-BDC5-23840DA3735C}|SecondDemo\\SecondDemo.csproj|solutionrelative:seconddemo\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientservice.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Models\\Clientservice.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\Models\\Clientservice.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Models\\Clientservice.cs",
+              "RelativeToolTip": "SecondDemo\\Models\\Clientservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:20:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Models\\Service.cs",
+              "RelativeToolTip": "SecondDemo\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:18:00.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShetininContext.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\EntityModels\\ShetininContext.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\EntityModels\\ShetininContext.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\EntityModels\\ShetininContext.cs",
+              "RelativeToolTip": "SecondDemo\\EntityModels\\ShetininContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:29:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceAction.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\ServiceAction.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\ServiceAction.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\ServiceAction.cs",
+              "RelativeToolTip": "SecondDemo\\ServiceAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:27:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Models\\Client.cs",
+              "RelativeToolTip": "SecondDemo\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:25:57.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Form.axaml",
+              "RelativeDocumentMoniker": "SecondDemo\\Form.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Form.axaml",
+              "RelativeToolTip": "SecondDemo\\Form.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T11:37:37.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Form.axaml.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\Form.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\Form.axaml.cs",
+              "RelativeToolTip": "SecondDemo\\Form.axaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:37:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\FirstWindow.axaml",
+              "RelativeDocumentMoniker": "SecondDemo\\FirstWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\FirstWindow.axaml",
+              "RelativeToolTip": "SecondDemo\\FirstWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T10:42:16.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\FirstWindow.axaml.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\FirstWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\FirstWindow.axaml.cs",
+              "RelativeToolTip": "SecondDemo\\FirstWindow.axaml.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAewLAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:42:16.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "SecondDemo\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\MainWindow.axaml",
+              "RelativeToolTip": "SecondDemo\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T10:32:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "SecondDemo\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\SecondDemo\\SecondDemo\\MainWindow.axaml.cs",
+              "RelativeToolTip": "SecondDemo\\MainWindow.axaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:32:31.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

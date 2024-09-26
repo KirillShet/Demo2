@@ -1,0 +1,91 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1080"
+		WindowStartupLocation="CenterScreen"
+		WindowState="Maximized"
+		MinHeight="305"
+		MinWidth="600"
+        x:Class="SecondDemo.MainWindow"
+		x:CompileBindings="False"
+        Title="SecondDemo">
+	<DockPanel>
+		<TextBox DockPanel.Dock="Top" TextChanged="TextBox_TextChanged"/>
+		<Grid ColumnDefinitions="*,*,*" DockPanel.Dock="Top">
+			<Button HorizontalAlignment="Stretch" Content="Добавить клиента" Click="Button_Click_1"/>
+			<ComboBox SelectionChanged="SFSchanged" Name="filtr" Grid.Column="1" HorizontalAlignment="Stretch">
+			</ComboBox>
+			<ComboBox Name="sort" SelectionChanged="SFSchanged" Grid.Column="2" HorizontalAlignment="Stretch">
+				<ComboBoxItem>Без сортировки</ComboBoxItem>
+				<ComboBoxItem>По фамилии </ComboBoxItem>
+				<ComboBoxItem>По дате последнего посещения</ComboBoxItem>
+				<ComboBoxItem>По количеству посещений</ComboBoxItem>
+			</ComboBox>
+		</Grid>
+		<Grid ColumnDefinitions="*,*,*" DockPanel.Dock="Bottom">
+			<TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="0" Name="show"/>
+			<Button HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Content="Удалить выбранный элемент" IsVisible="False" Name="DeleteButton" Click="Delete"/>
+			<StackPanel Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Right">
+				<ComboBox Name="Amount" SelectionChanged="ShownAmounChanged">
+					<ComboBoxItem>10</ComboBoxItem>
+					<ComboBoxItem>50</ComboBoxItem>
+					<ComboBoxItem>200</ComboBoxItem>
+					<ComboBoxItem>Все</ComboBoxItem>
+				</ComboBox>
+				<Button Name="Back" Content="Влево" Click="PageButton"/>
+				<Button Name="Forward" Content="Вправо" Click="PageButton"/>
+			</StackPanel>
+		</Grid>
+		<ListBox SelectionMode="Single" SelectionChanged="ListBox_SelectionChanged_1" Name="ClientsList" Margin="5">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Border Tag="{Binding Id}" DoubleTapped="Border_DoubleTapped" Background="#ffffe1" BorderBrush="Black" BorderThickness="2" CornerRadius="1.68">
+						<Grid ColumnDefinitions="1*, 1*, 7*, 3*">
+							<TextBlock Grid.Column="1" Text="{Binding Id}" VerticalAlignment="Center"/>
+							<StackPanel VerticalAlignment="Center" Grid.Column="2">
+								<StackPanel Spacing="5" Orientation="Horizontal">
+									<TextBlock Text="{Binding Firstname}"/>
+									<TextBlock Text="{Binding Lastname}"/>
+									<TextBlock Text="{Binding Patronymic}"/>
+								</StackPanel>
+								<TextBlock Text="{Binding Gender}"/>
+								<TextBlock Text="{Binding Birthday, StringFormat='Родился(-лась) {0}.'}"/>
+								<StackPanel Orientation="Horizontal">
+									<TextBlock Text="Телефон:"/>
+									<TextBlock Text="{Binding Phone}"/>
+									<TextBlock Text="Почта:"/>
+									<TextBlock Text="{Binding Email}"/>
+								</StackPanel>
+								<TextBlock Text="{Binding Registrationdate, StringFormat='Зарегестрировался(-лась) {0}.'}"/>
+								<StackPanel Spacing="5" Orientation="Horizontal">
+									<TextBlock Text="{Binding LastService, StringFormat='Последнее посещение {0}.'}"/>
+									<TextBlock Text="{Binding Amount, StringFormat='Всего посещений {0}.'}"/>
+								</StackPanel>
+								<ListBox ItemsSource="{Binding Tags}"  ScrollViewer.HorizontalScrollBarVisibility="Visible">
+									<ListBox.ItemsPanel>
+										<ItemsPanelTemplate>
+											<VirtualizingStackPanel Orientation="Horizontal" />
+										</ItemsPanelTemplate>
+									</ListBox.ItemsPanel>
+									<ListBox.ItemTemplate>
+										<DataTemplate>
+											<Border Background="{Binding Color}" CornerRadius="10">
+												<TextBlock Margin="5" HorizontalAlignment="Center" Background="{Binding Color}" VerticalAlignment="Center" Text="{Binding Title}"/>
+											</Border>
+										</DataTemplate>
+									</ListBox.ItemTemplate>
+								</ListBox>
+							</StackPanel>
+							<Grid Grid.Column="3" ColumnDefinitions="*,*,*,*" RowDefinitions="*,*,*,*">
+								<Border Grid.Column="1" Grid.ColumnSpan="2" Margin="15" Grid.Row="1" Grid.RowSpan="2" BorderBrush="Black" BorderThickness="2" >
+									<Image Source="{Binding Image}"/>
+								</Border>
+							</Grid>
+						</Grid>
+					</Border>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</DockPanel>
+</Window>

@@ -1,0 +1,450 @@
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.exe
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.deps.json
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.runtimeconfig.json
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.pdb
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.AssemblyReference.cache
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.AssemblyInfoInputs.cache
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.AssemblyInfo.cs
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\references
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\refint\SecondDemo.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.dll
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.pdb
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.Up2Date
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.genruntimeconfig.cache
+C:\Users\Class_Student\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\ref\SecondDemo.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.exe
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.deps.json
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.runtimeconfig.json
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.pdb
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Humanizer.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Npgsql.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\resources
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.AssemblyInfo.cs
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\references
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\refint\SecondDemo.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.dll
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.pdb
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.Up2Date
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.genruntimeconfig.cache
+C:\Users\prdb\Desktop\SecondDemo\SecondDemo\obj\Debug\net8.0\ref\SecondDemo.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.exe
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.deps.json
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.runtimeconfig.json
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\SecondDemo.pdb
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Base.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Native.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Avalonia.X11.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Humanizer.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Npgsql.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\SkiaSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\System.CodeDom.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.AssemblyReference.cache
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\resources
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.AssemblyInfoInputs.cache
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.AssemblyInfo.cs
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.CoreCompileInputs.cache
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\references
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.pdb
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\refint\SecondDemo.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.dll
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.pdb
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.csproj.Up2Date
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\SecondDemo.genruntimeconfig.cache
+D:\4 курс\Сентябрь\SecondDemo\SecondDemo\obj\Debug\net8.0\ref\SecondDemo.dll
